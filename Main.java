@@ -4,6 +4,9 @@ public class Main
 {
   public static void main(String[] args)
   {
-    // write solutions to problems here
+    RegularPolygon p1 = new RegularPolygon(4,6.5);
+
+    System.out.println(p1);
+
   }
 }
